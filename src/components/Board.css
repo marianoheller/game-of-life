@@ -1,0 +1,33 @@
+.board-container {
+    text-align: center;
+    cursor: pointer;
+}
+
+.my-row {
+    height: 1rem;
+}
+
+.cell {
+    width: 1rem;
+    height: 1rem;
+
+    display: inline-block;    
+    margin: 0;
+
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.cell-alive {
+    background-color: #222;
+}
+
+.cell-dead {
+    background-color: rgb(251,251,251);
+}
+
+
+.cell:hover {
+    background-color: #888;
+}

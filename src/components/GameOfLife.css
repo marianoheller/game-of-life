@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+    cursor: default;
+}
+
+button {
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+h6 {
+    margin: 5px;
+}
