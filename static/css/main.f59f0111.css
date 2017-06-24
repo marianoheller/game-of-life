@@ -1,0 +1,2 @@
+.board-container{text-align:center;cursor:pointer}.cell,.my-row{height:1rem}.cell{width:1rem;display:inline-block;margin:0;border:1px solid #fff}.cell-alive{background-color:#222}.cell-dead{background-color:#fbfbfb}.cell:hover{background-color:#888}.header{text-align:center;cursor:default}button{margin:10px;margin-bottom:15px}h6{margin:5px}body{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+/*# sourceMappingURL=main.f59f0111.css.map*/
